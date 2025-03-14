@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Max Base
+# https://github.com/BaseMax/persistent-ssh-proxy
 # Keep a SOCKS5 tunnel via SSH in the background alive
 
 if ! command -v ssh &> /dev/null; then
